@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "email.id",
+    "type": "java.lang.String",
+    "description": "A description for 'email.id'"
+  },
+  {
+    "name": "spring.mail.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.userName'"
+  },
+  {
+    "name": "spring.mail.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.userName'"
+  },
+  {
+    "name": "spring.mail.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.userName'"
+  },
+  {
+    "name": "spring.mail.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.userName'"
+  },
+  {
+    "name": "spring.mail.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.userName'"
+  },
+  {
+    "name": "spring.mail.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.userName'"
+  }
+]}
