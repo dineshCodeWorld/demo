@@ -15,7 +15,7 @@
 	<description>Tesla Project</description>
 	<properties>
 		<java.version>17</java.version>
-		<packaging>war<packaging/>
+		<packaging>war</packaging>
 	</properties>
 	<dependencies>
 		<dependency>
