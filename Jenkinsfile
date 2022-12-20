@@ -10,7 +10,7 @@ node {
                app = docker.build("teslaimage/demo")
            }
 
-           stage(Test image'')
+           stage('Test image')
            {
                app.inside {
                sh 'echo "Tests Passed"'
