@@ -7,7 +7,7 @@ node {
        
          stage('Build image')
            {
-               app = docker.build("teslaimage/teslaimage")
+               app = docker.build("teslaimage")
            }
 
            stage('Test image')
