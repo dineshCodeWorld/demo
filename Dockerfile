@@ -1,4 +1,5 @@
 #FROM openjdk:17
+npm init
 FROM node:7-onbuild
 EXPOSE 8081
 #ADD target/tesla-0.0.1.jar tesla-0.0.1.jar
