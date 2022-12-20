@@ -13,12 +13,12 @@ node {
            stage(Test image'')
            {
                app.inside {
-               sh 'echo "Test Passed"'
+               sh 'echo "Tests Passed"'
                }
            }
            stage('Push image')
            {
-              docker.withRegistry('')
+              docker.withRegistry('https://hub.docker.com','docker-cred')
                {
                  app.push("$(env.BUILD_NUMBER)")
                    app.push("latest")
